@@ -300,7 +300,7 @@ The saved LoRA weights cannot be merged into the zero3 model during training bec
 
 ## Inference and Deployment
 
-HunyuanLLM uses TRT-LLM and vLLM for deployment. We are open sourcing the vLLM deployment (see Reasoning with vLLM), and the TRT-LLM deployment (see Reasoning with TRT-LLM) will be available in the near future.
+HunyuanLLM uses TRT-LLM and vLLM for deployment. We are open sourcing the [vLLM-backend](https://github.com/quinnrong94/vllm/tree/dev_hunyuan) deployment (see Reasoning with vLLM), and the TRT-LLM deployment (see Reasoning with TRT-LLM) will be available in the near future.
 
 ## Using TRT-LLM for Inference
 
