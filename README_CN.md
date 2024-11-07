@@ -8,7 +8,7 @@
 </p><p></p>
 
 <p align="center">
-    🫣&nbsp<a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large"><b>Hugging Face</b></a>&nbsp&nbsp |  &nbsp&nbsp🖥️&nbsp&nbsp<a href="https://llm.hunyuan.tencent.com/" style="color: red;"><b>官网</b></a>&nbsp&nbsp｜&nbsp&nbsp🕖&nbsp&nbsp <a href="https://cloud.tencent.com/product/hunyuan" ><b>混元API</b></a>
+    🫣&nbsp<a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large"><b>Hugging Face</b></a>&nbsp&nbsp |  &nbsp&nbsp🖥️&nbsp&nbsp<a href="https://llm.hunyuan.tencent.com/" style="color: red;"><b>官网</b></a>&nbsp&nbsp｜&nbsp&nbsp🕖&nbsp&nbsp <a href="https://cloud.tencent.com/product/hunyuan" ><b>混元API</b></a>｜&nbsp&nbsp🐳&nbsp&nbsp <a href="https://gitee.com/Tencent/Tencent-Hunyuan-Large" ><b>Gitee</b></a>
 </p><p align="center">
     <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>技术报告</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp｜&nbsp&nbsp <a href="https://cloud.tencent.com/document/product/851/112032" style="color: red;"><b>Tencent Cloud TI</b></a>&nbsp&nbsp&nbsp</p>
 
