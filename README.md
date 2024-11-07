@@ -11,7 +11,38 @@
     🫣&nbsp<a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large"><b>Hugging Face</b></a>&nbsp&nbsp |  &nbsp&nbsp🖥️&nbsp&nbsp<a href="https://llm.hunyuan.tencent.com/" style="color: red;"><b>official website</b></a>&nbsp&nbsp｜&nbsp&nbsp🕖&nbsp&nbsp <a href="https://cloud.tencent.com/product/hunyuan" ><b>HunyuanAPI</b></a>&nbsp&nbsp｜&nbsp&nbsp🐳&nbsp&nbsp <a href="https://gitee.com/Tencent/Tencent-Hunyuan-Large" ><b>Gitee</b></a>
 </p><p align="center">
     <a href="https://arxiv.org/abs/2411.02265" style="color: red;"><b>Technical Report</b></a>&nbsp&nbsp｜&nbsp&nbsp <a href="https://huggingface.co/spaces/tencent/Hunyuan-Large"><b>Demo</b></a>&nbsp&nbsp&nbsp｜&nbsp&nbsp <a href="https://cloud.tencent.com/document/product/851/112032" style="color: red;"><b>Tencent Cloud TI</b></a>&nbsp&nbsp&nbsp</p>
+<p><br></p>
+<p>
+    <table align="center">
+        <tbody>
+            <tr>
+                <td align="center" colspan="3"><strong>Download Models</strong></td>
+            </tr>
+            <tr>
+                <td align="center" style="width: 100px;" >Models</td>
+                <td align="center" style="width: 500px;">Huggingface Download URL</td>
+                <td align="center" style="width: 500px;">Tencent Cloud Download URL</td>
+            </tr>
+            <tr>
+                <td style="width: 100px;">Hunyuan-A52B-Instruct-FP8</td>
+                <td style="width: 500px;"><a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large/tree/main/Hunyuan-A52B-Instruct-FP8" style="color: red;">Hunyuan-A52B-Instruct-FP8</a></td>
+                <td style="width: 500px;"><a href="https://hunyuan-large-model-1258344703.cos.ap-guangzhou.myqcloud.com/Hunyuan-A52B-Instruct-128k-fp8.zip" style="color: red;">Hunyuan-A52B-Instruct-FP8</a></td>
+            </tr>
+            <tr>
+                <td style="width: 100px;">Hunyuan-A52B-Instruct</td>
+                <td style="width: 500px;"><a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large/tree/main/Hunyuan-A52B-Instruct" style="color: red;">Hunyuan-A52B-Instruct</a></td>
+                <td style="width: 500px;"><a href="https://hunyuan-large-model-1258344703.cos.ap-guangzhou.myqcloud.com/Hunyuan-A52B-Instruct-128k.zip" style="color: red;">Hunyuan-A52B-Instruct</a></td>
+            </tr>
+            <tr>
+                <td style="width: 100px;">Hunyuan-A52B-Pretrain</td>
+                <td style="width: 500px;"><a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large/tree/main/Hunyuan-A52B-Pretrain" style="color: red;">Hunyuan-A52B-Pretrain</a></td>
+                <td style="width: 500px;"><a href="https://hunyuan-large-model-1258344703.cos.ap-guangzhou.myqcloud.com/Hunyuan-A52B-Pretrain-256k.zip" style="color: red;">Hunyuan-A52B-Pretrain</a></td>
+            </tr>
+        </tbody>
+    </table>
+</p>
 
+<p></p>
 
 
 ## Model Introduction
