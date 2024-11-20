@@ -42,6 +42,7 @@
 &nbsp;
 
 ## 新闻
+* 2024.11.20 **Hunyuan-A52B-Instruct** 和**Hunyuan-A52B-Instruct-FP8**模型权重更新。
 * 2024.11.5 [TI平台](https://cloud.tencent.com/product/ti) 已经集成了Hunyuan-Large模型，您只需几步即可轻松进行训练和部署。访问 [Chat with Hunyuan-Large](https://console.cloud.tencent.com/tione/v2/aimarket/detail/hunyuan_series?PublicAlgoGroupId=hunyuan-large-chat&detailTab=demo) 与模型的实时对话，并在TI上探索 [Hunyuan-Large Best Practice on TI](https://cloud.tencent.com/document/product/851/112032) 并创建自己的定制化Hunyuan-Large。
 * 2024.11.5 我们在Hugging Face开源了**Hunyuan-A52B-Pretrain** 、 **Hunyuan-A52B-Instruct** 和**Hunyuan-A52B-Instruct-FP8**。并发布了技术报告和训练推理操作手册，详细介绍了模型能力和训练与推理的操作。
 <br>
