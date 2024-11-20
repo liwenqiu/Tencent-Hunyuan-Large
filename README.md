@@ -74,6 +74,7 @@ By open-sourcing the Hunyuan-Large model and revealing related technical details
 &nbsp;
 
 ## Related News
+* 2024.11.18 **Hunyuan-A52B-Instruct** and **Hunyuan-A52B-Instruct-FP8** model update. 
 * 2024.11.5 [TI Platform](https://cloud.tencent.com/product/ti) has integrated Hunyuan-Large model already, you can easily train and deploy it in just a few steps. Visit [Chat with Hunyuan-Large](https://console.cloud.tencent.com/tione/v2/aimarket/detail/hunyuan_series?PublicAlgoGroupId=hunyuan-large-chat&detailTab=demo) to experience real-time conversations with the model, and explore [Hunyuan-Large Best Practice on TI](https://cloud.tencent.com/document/product/851/112032) to create your own customized Hunyuan-Large model. 
 * 2024.11.5 We have open-sourced **Hunyuan-A52B-Pretrain**, **Hunyuan-A52B-Instruct**, and **Hunyuan-A52B-Instruct-FP8** on Hugging Face. We also released a technical report and a training and inference operations manual, providing detailed information on the model's capabilities and the procedures for training and inference.
 
