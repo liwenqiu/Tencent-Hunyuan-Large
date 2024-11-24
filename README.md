@@ -26,12 +26,12 @@
             <tr>
                 <td style="width: 100px;">Hunyuan-A52B-Instruct-FP8</td>
                 <td style="width: 500px;"><a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large/tree/main/Hunyuan-A52B-Instruct-FP8" style="color: red;">Hunyuan-A52B-Instruct-FP8</a></td>
-                <td style="width: 500px;"><a href="https://cdn-large-model.hunyuan.tencent.com/Hunyuan-A52B-Instruct-128k-fp8.zip" style="color: red;">Hunyuan-A52B-Instruct-FP8</a></td>
+                <td style="width: 500px;"><a href="https://cdn-large-model.hunyuan.tencent.com/Hunyuan-A52B-Instruct-128k-fp8-20241116.zip" style="color: red;">Hunyuan-A52B-Instruct-FP8</a></td>
             </tr>
             <tr>
                 <td style="width: 100px;">Hunyuan-A52B-Instruct</td>
                 <td style="width: 500px;"><a href="https://huggingface.co/tencent/Tencent-Hunyuan-Large/tree/main/Hunyuan-A52B-Instruct" style="color: red;">Hunyuan-A52B-Instruct</a></td>
-                <td style="width: 500px;"><a href="https://cdn-large-model.hunyuan.tencent.com/Hunyuan-A52B-Instruct-128k.zip" style="color: red;">Hunyuan-A52B-Instruct</a></td>
+                <td style="width: 500px;"><a href="https://cdn-large-model.hunyuan.tencent.com/Hunyuan-A52B-Instruct-128k-20241116.zip" style="color: red;">Hunyuan-A52B-Instruct</a></td>
             </tr>
             <tr>
                 <td style="width: 100px;">Hunyuan-A52B-Pretrain</td>
