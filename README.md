@@ -369,7 +369,7 @@ python3 login_ssh.py --ips ${ip1},${ip2} --port 36000 --password=Tmp123,./
 
 ### BF16 Deployment
 
-BF16 requires 16 H800 or H20 GPUs for deployment. After verifying that multi-machine communication is correct, execute the following steps:
+BF16 requires 16 H20 GPUs for deployment. After verifying that multi-machine communication is correct, execute the following steps:
 
 Before running the commands, set the following environment variables:
 
